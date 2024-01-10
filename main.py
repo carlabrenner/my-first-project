@@ -1,2 +1,3 @@
 print("my first app")
-krdjfnñwlkdsñkxfl
+print("new functions")
+print("load data from data/data.csv")
